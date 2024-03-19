@@ -53,3 +53,13 @@
   .actions button[type='button']:hover {
     color: #d1bee6;
   }
+
+  #body {
+    color: black;
+    font-weight: bold;
+  }
+
+  #textShown{
+    color: #f5faff;
+    font-weight: bold;
+  }
